@@ -1,2 +1,2 @@
-# intro_solutions
-empty files for solutions
+## Задание 1:
+Сделайте принт строки "abc".
